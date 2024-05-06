@@ -1,0 +1,22 @@
+Task 1: Create a Form to Add Employee Information to Firebase Database
+1. Develop an HTML form with fields to capture employee details such as name, position, and supervisor.
+2. Include a dropdown or select field for choosing the supervisor from existing supervisors' data.
+3. On form submission, store the entered employee information in the Firebase database.
+
+Task 2: Create a Table to View All Employees
+1. Design an interface, preferably a table, to display a list of all employees stored in the Firebase database.
+2. Each row of the table should represent an employee and display relevant details like name, position, and supervisor.
+3. Implement functionality to fetch and populate this table with data from the Firebase database.
+
+Task 3: Display Employee Hierarchy Tree Graph in a Modal
+1. Develop a modal popup that appears when a user clicks on a row in the employee table.
+2. Inside the modal, display a hierarchical tree graph representing the employee's relationship with their supervisor and subordinates.
+3. The tree graph should visually demonstrate the hierarchy with the selected employee at the center.
+4. These tasks provide clear objectives for building the desired features. Let me know if you need further clarification or assistance with any specific task!
+
+
+
+
+
+
+
